@@ -6,7 +6,7 @@ The chatbot retrieves relevant information from documents and generates answers 
 ---
 
 ## 🚀 Features
-Upload and chat with PDF documents  
+✔ Upload and chat with PDF documents  
 ✔ Retrieval-Augmented Generation (RAG) pipeline  
 ✔ Local LLM using **Ollama (TinyLlama)**  
 ✔ Vector similarity search using **FAISS**  
